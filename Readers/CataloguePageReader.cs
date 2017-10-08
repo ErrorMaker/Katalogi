@@ -34,20 +34,20 @@ namespace Katalogi.Readers
             string pageLayout = packet.ReadString();
             pageData.pageLayout = pageLayout;
 
-            int textsAmount = packet.ReadInteger();
-            for (int i = 0; i < textsAmount; i++)
-            {
-                texts.Add(packet.ReadString());
-            }
-
             int imageAmount = packet.ReadInteger();
             for (int i = 0; i < imageAmount; i++)
             {
                 images.Add(packet.ReadString());
             }
 
-            pageData.texts = texts;
+            int textsAmount = packet.ReadInteger();
+            for (int i = 0; i < textsAmount; i++)
+            {
+                texts.Add(packet.ReadString());
+            }
+
             pageData.images = images;
+            pageData.texts = texts;
 
             int itemAmount = packet.ReadInteger();
 
