@@ -21,9 +21,13 @@ namespace Katalogi
         public readonly ushort CATALOGUE_PAGE_EVENT = 2412;
         public readonly ushort CATALOGUE_TAB_EVENT = 808;
 
+        public readonly ushort CATALOGUE_PAGE_REQUEST = 2148;
+
         public CataloguePageReader PageReader { get; set; }
         public CatalogueItemReader ItemReader { get; set; }
         public CatalogueTabReader TabReader { get; set; }
+
+        public List<int> PageIds = new List<int>();
 
         private Dictionary<int, dynamic> pages = new Dictionary<int, dynamic>();
 

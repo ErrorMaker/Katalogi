@@ -20,21 +20,23 @@ namespace Katalogi.Readers
 
         internal dynamic ReadEventArgs(DataInterceptedEventArgs obj)
         {
-            var packet = obj.Packet;
-
-            dynamic tab = this.ReadTabData(packet);
+            dynamic tab = this.ReadTabData(obj);
             return tab;
         }
 
-        private dynamic ReadTabData(HMessage packet)
+        private dynamic ReadTabData(DataInterceptedEventArgs obj)
         {
+            var packet = obj.Packet;
             dynamic tabData = new ExpandoObject();
+
             tabData.tabs = new List<dynamic>();
 
             tabData.isEnabled = packet.ReadBoolean();
 
             tabData.iconImage = packet.ReadInteger();
             tabData.id = packet.ReadInteger();
+
+            this.form.PageIds.Add(tabData.id);//.RequestPage(tabData.id, obj);
 
             tabData.pageLink = packet.ReadString();
             tabData.pageCaption = packet.ReadString();
@@ -48,7 +50,7 @@ namespace Katalogi.Readers
             int subPages = packet.ReadInteger();
             for (int i = 0; i < subPages; i++)
             {
-                tabData.tabs.Add(this.ReadTabData(packet));
+                tabData.tabs.Add(this.ReadTabData(obj));
             }
 
             return tabData;
