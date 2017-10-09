@@ -1,0 +1,16 @@
+C:\Users\Alex\Documents\GitHub\Katalogi\bin\Debug\Katalogi.exe.config
+C:\Users\Alex\Documents\GitHub\Katalogi\bin\Debug\Katalogi.exe
+C:\Users\Alex\Documents\GitHub\Katalogi\bin\Debug\Katalogi.pdb
+C:\Users\Alex\Documents\GitHub\Katalogi\bin\Debug\Eavesdrop.dll
+C:\Users\Alex\Documents\GitHub\Katalogi\bin\Debug\FlashInspect.dll
+C:\Users\Alex\Documents\GitHub\Katalogi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\GitHub\Katalogi\bin\Debug\Sulakore.dll
+C:\Users\Alex\Documents\GitHub\Katalogi\bin\Debug\Tangine.dll
+C:\Users\Alex\Documents\GitHub\Katalogi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alex\Documents\GitHub\Katalogi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Documents\GitHub\Katalogi\obj\Debug\Katalogi.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Katalogi\obj\Debug\Katalogi.Form1.resources
+C:\Users\Alex\Documents\GitHub\Katalogi\obj\Debug\Katalogi.Properties.Resources.resources
+C:\Users\Alex\Documents\GitHub\Katalogi\obj\Debug\Katalogi.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\GitHub\Katalogi\obj\Debug\Katalogi.exe
+C:\Users\Alex\Documents\GitHub\Katalogi\obj\Debug\Katalogi.pdb

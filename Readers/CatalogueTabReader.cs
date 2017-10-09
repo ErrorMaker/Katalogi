@@ -50,7 +50,14 @@ namespace Katalogi.Readers
             int subPages = packet.ReadInteger();
             for (int i = 0; i < subPages; i++)
             {
-                tabData.tabs.Add(this.ReadTabData(obj));
+                dynamic nextTab = this.ReadTabData(obj);
+
+                if (nextTab.id > 0)
+                {
+                    this.form.ParentIds.Add(nextTab.id, tabData.id);
+                }
+
+                tabData.tabs.Add(nextTab);
             }
 
             return tabData;
