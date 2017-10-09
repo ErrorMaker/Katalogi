@@ -27,7 +27,6 @@ namespace Katalogi
         public CatalogueItemReader ItemReader { get; set; }
         public CatalogueTabReader TabReader { get; set; }
 
-        public List<int> PageIds = new List<int>();
         private Dictionary<int, dynamic> pages = new Dictionary<int, dynamic>();
 
         public Form1()

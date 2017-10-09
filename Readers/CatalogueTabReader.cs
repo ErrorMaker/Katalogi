@@ -35,14 +35,9 @@ namespace Katalogi.Readers
             tabData.isEnabled = packet.ReadBoolean();
 
             tabData.iconImage = packet.ReadInteger();
+
+            tabData.parentId = -1;
             tabData.id = packet.ReadInteger();
-
-            if (tabData.id == -1)
-            {
-                tabData.id = random.Next(10000, 30000);
-            }
-
-            this.form.PageIds.Add(tabData.id);//.RequestPage(tabData.id, obj);
 
             tabData.pageLink = packet.ReadString();
             tabData.pageCaption = packet.ReadString();
@@ -56,8 +51,7 @@ namespace Katalogi.Readers
             int subPages = packet.ReadInteger();
             for (int i = 0; i < subPages; i++)
             {
-                dynamic nextTab = this.ReadTabData(obj);
-                tabData.tabs.Add(nextTab);
+                tabData.tabs.Add(this.ReadTabData(obj));
             }
 
             return tabData;
