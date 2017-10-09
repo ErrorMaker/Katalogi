@@ -1,0 +1,1550 @@
+{
+  "tabs": [
+    {
+      "tabs": [],
+      "isEnabled": true,
+      "iconImage": 213,
+      "pageId": 746444,
+      "parentId": -1,
+      "id": 0,
+      "pageLink": "front_page",
+      "pageCaption": " Front Page"
+    },
+    {
+      "tabs": [
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 146,
+          "pageId": 746447,
+          "parentId": 1,
+          "id": 2,
+          "pageLink": "credit_exchange",
+          "pageCaption": "Credit Furni"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 268,
+              "pageId": 746483,
+              "parentId": 3,
+              "id": 4,
+              "pageLink": "cave17jail",
+              "pageCaption": "Ancient Jail Bundle"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 206,
+              "pageId": 746484,
+              "parentId": 3,
+              "id": 5,
+              "pageLink": "xmas15baby1",
+              "pageCaption": "Kitten's Cosy Kitchen Habitat Bundle"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 206,
+              "pageId": 746485,
+              "parentId": 3,
+              "id": 6,
+              "pageLink": "xmas15baby2",
+              "pageCaption": "Piglet Pen Habitat Bundle"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 206,
+              "pageId": 746486,
+              "parentId": 3,
+              "id": 7,
+              "pageLink": "xmas15baby3",
+              "pageCaption": "Polar Bear Habitat Bundle"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 206,
+              "pageId": 746487,
+              "parentId": 3,
+              "id": 8,
+              "pageLink": "xmas15baby4",
+              "pageCaption": "Puppy's Paradise Habitat Bundle"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 206,
+              "pageId": 746488,
+              "parentId": 3,
+              "id": 9,
+              "pageLink": "xmas15baby5",
+              "pageCaption": "Terrier in a Tower Habitat Bundle"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 206,
+          "pageId": -1,
+          "parentId": 1,
+          "id": 3,
+          "pageLink": "room_bundles",
+          "pageCaption": "Room Bundles"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 55,
+          "pageId": 746490,
+          "parentId": 1,
+          "id": 10,
+          "pageLink": "room_ad",
+          "pageCaption": "Room Event"
+        },
+        {
+          "tabs": [],
+          "isEnabled": false,
+          "iconImage": 42,
+          "pageId": 746491,
+          "parentId": 1,
+          "id": 11,
+          "pageLink": "cave17knights",
+          "pageCaption": "RARE Flaming Knights"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 276,
+          "pageId": 746492,
+          "parentId": 1,
+          "id": 12,
+          "pageLink": "cave17new",
+          "pageCaption": "Cursed Caves"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 34,
+          "pageId": 746493,
+          "parentId": 1,
+          "id": 13,
+          "pageLink": "ghost16classic",
+          "pageCaption": "Hween Comeback"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 195,
+              "pageId": 746496,
+              "parentId": 14,
+              "id": 15,
+              "pageLink": "indoor_top_picks",
+              "pageCaption": "Top Picks"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 111,
+              "pageId": 746497,
+              "parentId": 14,
+              "id": 16,
+              "pageLink": "dynamic_chairs",
+              "pageCaption": "Seating"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 112,
+              "pageId": 746498,
+              "parentId": 14,
+              "id": 17,
+              "pageLink": "dynamic_tables",
+              "pageCaption": "Tables"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 114,
+              "pageId": 746499,
+              "parentId": 14,
+              "id": 18,
+              "pageLink": "dynamic_beds",
+              "pageCaption": "Beds"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 113,
+              "pageId": 746500,
+              "parentId": 14,
+              "id": 19,
+              "pageLink": "dynamic_dividers",
+              "pageCaption": "Dividers"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 115,
+              "pageId": 746501,
+              "parentId": 14,
+              "id": 20,
+              "pageLink": "set_dimmer",
+              "pageCaption": "Lighting"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 219,
+              "pageId": 746502,
+              "parentId": 14,
+              "id": 21,
+              "pageLink": "set_posters",
+              "pageCaption": "Wall decorations"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 120,
+              "pageId": 746503,
+              "parentId": 14,
+              "id": 22,
+              "pageLink": "set_teleports",
+              "pageCaption": "Teleports"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 222,
+              "pageId": 746504,
+              "parentId": 14,
+              "id": 23,
+              "pageLink": "set_rollers",
+              "pageCaption": "Rollers"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 224,
+              "pageId": 746505,
+              "parentId": 14,
+              "id": 24,
+              "pageLink": "badge_display",
+              "pageCaption": "Badge Display"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 223,
+              "pageId": 746506,
+              "parentId": 14,
+              "id": 25,
+              "pageLink": "palooza_tents",
+              "pageCaption": "Tents"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 221,
+              "pageId": 746507,
+              "parentId": 14,
+              "id": 26,
+              "pageLink": "set_trophies",
+              "pageCaption": "Trophies"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 112,
+          "pageId": -1,
+          "parentId": 1,
+          "id": 14,
+          "pageLink": "furni_indoor_furni",
+          "pageCaption": "Indoor Furni"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 195,
+              "pageId": 746509,
+              "parentId": 27,
+              "id": 28,
+              "pageLink": "room_building_top_picks",
+              "pageCaption": "Top Picks"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 41,
+              "pageId": 746510,
+              "parentId": 27,
+              "id": 29,
+              "pageLink": "room_building_floors",
+              "pageCaption": "Floors"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 122,
+              "pageId": 746511,
+              "parentId": 27,
+              "id": 30,
+              "pageLink": "dynamic_walls",
+              "pageCaption": "Walls"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 116,
+              "pageId": 746512,
+              "parentId": 27,
+              "id": 31,
+              "pageLink": "set_rugs",
+              "pageCaption": "Carpets"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 55,
+              "pageId": 746513,
+              "parentId": 27,
+              "id": 32,
+              "pageLink": "room_building_doors",
+              "pageCaption": "Doors"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 120,
+              "pageId": 746514,
+              "parentId": 27,
+              "id": 33,
+              "pageLink": "set_teleports2",
+              "pageCaption": "Teleports"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 218,
+              "pageId": 746515,
+              "parentId": 27,
+              "id": 34,
+              "pageLink": "set_windows",
+              "pageCaption": "Windows"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 225,
+              "pageId": 746516,
+              "parentId": 27,
+              "id": 35,
+              "pageLink": "spaces_grid",
+              "pageCaption": "Spaces"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 63,
+          "pageId": -1,
+          "parentId": 1,
+          "id": 27,
+          "pageLink": "furni_room_building",
+          "pageCaption": "Room Building"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 195,
+              "pageId": 746518,
+              "parentId": 36,
+              "id": 37,
+              "pageLink": "outdoor_furni_top_picks",
+              "pageCaption": "Top Picks"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 220,
+              "pageId": 746519,
+              "parentId": 36,
+              "id": 38,
+              "pageLink": "set_plants",
+              "pageCaption": "Vegetation"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 42,
+              "pageId": 746520,
+              "parentId": 36,
+              "id": 39,
+              "pageLink": "outdoor_furni_water_features",
+              "pageCaption": "Water Features"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 21,
+              "pageId": 746521,
+              "parentId": 36,
+              "id": 40,
+              "pageLink": "outdoor_furni_ground",
+              "pageCaption": "Ground"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 206,
+              "pageId": 746522,
+              "parentId": 36,
+              "id": 41,
+              "pageLink": "outdoor_furni_backgrounds",
+              "pageCaption": "Backgrounds"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 220,
+          "pageId": -1,
+          "parentId": 1,
+          "id": 36,
+          "pageLink": "furni_outdoor_furni",
+          "pageCaption": "Outdoor Furni"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 195,
+              "pageId": 746524,
+              "parentId": 42,
+              "id": 43,
+              "pageLink": "furni_sub_top_picks",
+              "pageCaption": "Top Picks"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 11,
+              "pageId": 746525,
+              "parentId": 42,
+              "id": 44,
+              "pageLink": "set_extras",
+              "pageCaption": "Accessories"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 104,
+              "pageId": 746529,
+              "parentId": 42,
+              "id": 45,
+              "pageLink": "set_anna",
+              "pageCaption": "Anna"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 179,
+              "pageId": 746534,
+              "parentId": 42,
+              "id": 46,
+              "pageLink": "set_pixelnew",
+              "pageCaption": "Base"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 17,
+              "pageId": 746535,
+              "parentId": 42,
+              "id": 47,
+              "pageLink": "set_bath",
+              "pageCaption": "Bathroom"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 21,
+              "pageId": 746543,
+              "parentId": 42,
+              "id": 48,
+              "pageLink": "set_picnic",
+              "pageCaption": "Country"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 100,
+              "pageId": 746544,
+              "parentId": 42,
+              "id": 49,
+              "pageLink": "set_cubie",
+              "pageCaption": "Cubie"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 204,
+              "pageId": 746545,
+              "parentId": 42,
+              "id": 50,
+              "pageLink": "set_diner_fastfood",
+              "pageCaption": "Diner"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 157,
+              "pageId": 746548,
+              "parentId": 42,
+              "id": 51,
+              "pageLink": "bc_gardening",
+              "pageCaption": "Gardening"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 230,
+              "pageId": 746555,
+              "parentId": 42,
+              "id": 52,
+              "pageLink": "bc_university",
+              "pageCaption": "Habbo University"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 211,
+              "pageId": 746556,
+              "parentId": 42,
+              "id": 53,
+              "pageLink": "healthspa",
+              "pageCaption": "Health Spa"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 72,
+              "pageId": 746557,
+              "parentId": 42,
+              "id": 54,
+              "pageLink": "set_iced",
+              "pageCaption": "Iced"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 217,
+              "pageId": 746562,
+              "parentId": 42,
+              "id": 55,
+              "pageLink": "ktchn15",
+              "pageCaption": "Kitchen"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 37,
+              "pageId": 746564,
+              "parentId": 42,
+              "id": 56,
+              "pageLink": "set_lodge",
+              "pageCaption": "Lodge"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 39,
+              "pageId": 746567,
+              "parentId": 42,
+              "id": 57,
+              "pageLink": "set_mode",
+              "pageCaption": "Mode"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 41,
+              "pageId": 746571,
+              "parentId": 42,
+              "id": 58,
+              "pageLink": "set_neon",
+              "pageCaption": "Neon"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 57,
+              "pageId": 746576,
+              "parentId": 42,
+              "id": 59,
+              "pageLink": "set_pool",
+              "pageCaption": "Pool"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 48,
+              "pageId": 746578,
+              "parentId": 42,
+              "id": 60,
+              "pageLink": "set_pura",
+              "pageCaption": "Pura"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 129,
+              "pageId": 746594,
+              "parentId": 42,
+              "id": 61,
+              "pageLink": "set_usva",
+              "pageCaption": "USVA"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 197,
+          "pageId": -1,
+          "parentId": 1,
+          "id": 42,
+          "pageLink": "category_furni_sets",
+          "pageCaption": "Furni By Line"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 214,
+              "pageId": 746600,
+              "parentId": 62,
+              "id": 63,
+              "pageLink": "club_gifts",
+              "pageCaption": "Club Gifts"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 258,
+              "pageId": 746601,
+              "parentId": 62,
+              "id": 64,
+              "pageLink": "club_shop",
+              "pageCaption": "HC Furni"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 125,
+              "pageId": 746602,
+              "parentId": 62,
+              "id": 65,
+              "pageLink": "set_blackhole",
+              "pageCaption": "Custom Rooms"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 172,
+          "pageId": -1,
+          "parentId": 1,
+          "id": 62,
+          "pageLink": "habbo_club",
+          "pageCaption": "Habbo Club"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 195,
+              "pageId": 746604,
+              "parentId": 66,
+              "id": 67,
+              "pageLink": "wired_top_picks",
+              "pageCaption": "Top Picks"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 84,
+              "pageId": 746605,
+              "parentId": 66,
+              "id": 68,
+              "pageLink": "wired_deals",
+              "pageCaption": "Deals"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 81,
+              "pageId": 746606,
+              "parentId": 66,
+              "id": 69,
+              "pageLink": "wired_triggers",
+              "pageCaption": "Triggers"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 82,
+              "pageId": 746607,
+              "parentId": 66,
+              "id": 70,
+              "pageLink": "wired_effects",
+              "pageCaption": "Effects"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 83,
+              "pageId": 746608,
+              "parentId": 66,
+              "id": 71,
+              "pageLink": "wired_conditions",
+              "pageCaption": "Conditions"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 85,
+              "pageId": 746609,
+              "parentId": 66,
+              "id": 72,
+              "pageLink": "wired_addons",
+              "pageCaption": "Add-Ons"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 4,
+              "pageId": 746610,
+              "parentId": 66,
+              "id": 73,
+              "pageLink": "sound_fx",
+              "pageCaption": "Sound FX"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 256,
+              "pageId": 746611,
+              "parentId": 66,
+              "id": 74,
+              "pageLink": "wired_leaderboard",
+              "pageCaption": "Leaderboards"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 42,
+              "pageId": 746612,
+              "parentId": 66,
+              "id": 75,
+              "pageLink": "wired_info",
+              "pageCaption": "How To Use Wired"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 80,
+          "pageId": -1,
+          "parentId": 1,
+          "id": 66,
+          "pageLink": "category_wired",
+          "pageCaption": "Wired"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 65,
+          "pageId": 746613,
+          "parentId": 1,
+          "id": 76,
+          "pageLink": "bots",
+          "pageCaption": "Bots"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 195,
+              "pageId": 746615,
+              "parentId": 77,
+              "id": 78,
+              "pageLink": "games_top_picks",
+              "pageCaption": "Top Picks"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 42,
+              "pageId": 746616,
+              "parentId": 77,
+              "id": 79,
+              "pageLink": "gameset_battle_banzai_info",
+              "pageCaption": "How To Play Banzai"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 78,
+              "pageId": 746617,
+              "parentId": 77,
+              "id": 80,
+              "pageLink": "gameset_battle_banzai",
+              "pageCaption": "Battle Banzai"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 42,
+              "pageId": 746618,
+              "parentId": 77,
+              "id": 81,
+              "pageLink": "gameset_freeze_info",
+              "pageCaption": "How To Play Freeze!"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 87,
+              "pageId": 746619,
+              "parentId": 77,
+              "id": 82,
+              "pageLink": "gameset_freeze",
+              "pageCaption": "Freeze!"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 56,
+              "pageId": 746620,
+              "parentId": 77,
+              "id": 83,
+              "pageLink": "gameset_football",
+              "pageCaption": "Football"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 140,
+              "pageId": 746621,
+              "parentId": 77,
+              "id": 84,
+              "pageLink": "gameset_snowboard",
+              "pageCaption": "Snowboarding"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 88,
+              "pageId": 746622,
+              "parentId": 77,
+              "id": 85,
+              "pageLink": "gameset_ice_hockey",
+              "pageCaption": "Ice Hockey"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 94,
+              "pageId": 746623,
+              "parentId": 77,
+              "id": 86,
+              "pageLink": "gameset_roller_skates",
+              "pageCaption": "Rollerskating"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 86,
+              "pageId": 746624,
+              "parentId": 77,
+              "id": 87,
+              "pageLink": "gameset_ice_tagging",
+              "pageCaption": "Ice Tag"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 202,
+          "pageId": -1,
+          "parentId": 1,
+          "id": 77,
+          "pageLink": "category_games",
+          "pageCaption": "Game Shop"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 28,
+              "pageId": 746626,
+              "parentId": 88,
+              "id": 89,
+              "pageLink": "guild_custom_furni",
+              "pageCaption": "Group Furni"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 207,
+              "pageId": 746627,
+              "parentId": 88,
+              "id": 90,
+              "pageLink": "guild_forum",
+              "pageCaption": "Groups Forums"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 203,
+          "pageId": 746625,
+          "parentId": 1,
+          "id": 88,
+          "pageLink": "guild_frontpage",
+          "pageCaption": "Habbo Groups"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 257,
+              "pageId": 746629,
+              "parentId": 91,
+              "id": 92,
+              "pageLink": "trax_songs",
+              "pageCaption": "Habbo Hotel Hits"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 4,
+          "pageId": 746628,
+          "parentId": 1,
+          "id": 91,
+          "pageLink": "trax_jukebox",
+          "pageCaption": "Music Shop"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 70,
+              "pageId": 746631,
+              "parentId": 93,
+              "id": 94,
+              "pageLink": "martketplace_my_sales",
+              "pageCaption": "My Sales"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 71,
+              "pageId": 746632,
+              "parentId": 93,
+              "id": 95,
+              "pageLink": "marketplace_offers",
+              "pageCaption": "Offers"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 69,
+          "pageId": 746630,
+          "parentId": 1,
+          "id": 93,
+          "pageLink": "marketplace_info",
+          "pageCaption": "Marketplace"
+        }
+      ],
+      "isEnabled": true,
+      "iconImage": 2,
+      "pageId": -1,
+      "parentId": -1,
+      "id": 1,
+      "pageLink": "furni",
+      "pageCaption": "Furni"
+    },
+    {
+      "tabs": [
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 195,
+          "pageId": 746635,
+          "parentId": 96,
+          "id": 97,
+          "pageLink": "clothing_top_picks",
+          "pageCaption": "Top Picks"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 215,
+          "pageId": 746636,
+          "parentId": 96,
+          "id": 98,
+          "pageLink": "clothing_new",
+          "pageCaption": "New Additions"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 74,
+          "pageId": 746637,
+          "parentId": 96,
+          "id": 99,
+          "pageLink": "clothing_outfits",
+          "pageCaption": "Outfits"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 74,
+          "pageId": 746638,
+          "parentId": 96,
+          "id": 100,
+          "pageLink": "clothing_hairstyles",
+          "pageCaption": "Hairdos"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 74,
+          "pageId": 746639,
+          "parentId": 96,
+          "id": 101,
+          "pageLink": "clothing_hats",
+          "pageCaption": "Hats"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 74,
+          "pageId": 746640,
+          "parentId": 96,
+          "id": 102,
+          "pageLink": "clothing_accessories",
+          "pageCaption": "Accessories"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 74,
+          "pageId": 746641,
+          "parentId": 96,
+          "id": 103,
+          "pageLink": "clothing_dresses",
+          "pageCaption": "Dresses"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 74,
+          "pageId": 746642,
+          "parentId": 96,
+          "id": 104,
+          "pageLink": "clothing_shirts",
+          "pageCaption": "Shirts"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 74,
+          "pageId": 746643,
+          "parentId": 96,
+          "id": 105,
+          "pageLink": "clothing_jackets",
+          "pageCaption": "Jackets"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 74,
+          "pageId": 746644,
+          "parentId": 96,
+          "id": 106,
+          "pageLink": "clothing_trousers",
+          "pageCaption": "Trousers"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 74,
+          "pageId": 746645,
+          "parentId": 96,
+          "id": 107,
+          "pageLink": "clothing_skirts",
+          "pageCaption": "Skirts"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 74,
+          "pageId": 746646,
+          "parentId": 96,
+          "id": 108,
+          "pageLink": "clothing_shoes",
+          "pageCaption": "Shoes"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 61,
+          "pageId": 746647,
+          "parentId": 96,
+          "id": 109,
+          "pageLink": "ny2015_permeffects",
+          "pageCaption": "Effects"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 263,
+          "pageId": 746648,
+          "parentId": 96,
+          "id": 110,
+          "pageLink": "history16effect",
+          "pageCaption": "Temporary Effects"
+        }
+      ],
+      "isEnabled": true,
+      "iconImage": 74,
+      "pageId": -1,
+      "parentId": -1,
+      "id": 96,
+      "pageLink": "clothing",
+      "pageCaption": "Clothing"
+    },
+    {
+      "tabs": [
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 132,
+              "pageId": 746651,
+              "parentId": 112,
+              "id": 113,
+              "pageLink": "pet_horse",
+              "pageCaption": "Pet Horse"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 128,
+              "pageId": 746652,
+              "parentId": 112,
+              "id": 114,
+              "pageLink": "pet_monkey",
+              "pageCaption": "Pet Monkey"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 260,
+              "pageId": 746653,
+              "parentId": 112,
+              "id": 115,
+              "pageLink": "pet_raptor",
+              "pageCaption": "Velociraptor Pet"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 260,
+              "pageId": 746654,
+              "parentId": 112,
+              "id": 116,
+              "pageLink": "pet_pterosaur",
+              "pageCaption": "Pterodactyl Pet"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 68,
+              "pageId": 746655,
+              "parentId": 112,
+              "id": 117,
+              "pageLink": "pet_polar_bear",
+              "pageCaption": "Bears"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 109,
+              "pageId": 746656,
+              "parentId": 112,
+              "id": 118,
+              "pageLink": "pet_dragon",
+              "pageCaption": "Dragons"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 66,
+              "pageId": 746657,
+              "parentId": 112,
+              "id": 119,
+              "pageLink": "pet_terrier",
+              "pageCaption": "Terriers"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 76,
+              "pageId": 746658,
+              "parentId": 112,
+              "id": 120,
+              "pageLink": "pet_lion",
+              "pageCaption": "Lion"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 126,
+              "pageId": 746659,
+              "parentId": 112,
+              "id": 121,
+              "pageLink": "pet_turtle",
+              "pageCaption": "Turtles"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 22,
+              "pageId": 746660,
+              "parentId": 112,
+              "id": 122,
+              "pageLink": "pet_crocodile",
+              "pageCaption": "Crocs"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 77,
+              "pageId": 746661,
+              "parentId": 112,
+              "id": 123,
+              "pageLink": "pet_rhino",
+              "pageCaption": "Rhino"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 95,
+              "pageId": 746662,
+              "parentId": 112,
+              "id": 124,
+              "pageLink": "pet_spider",
+              "pageCaption": "Spider"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 24,
+              "pageId": 746663,
+              "parentId": 112,
+              "id": 125,
+              "pageLink": "pet_dog",
+              "pageCaption": "Dogs"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 20,
+              "pageId": 746664,
+              "parentId": 112,
+              "id": 126,
+              "pageLink": "pet_cat",
+              "pageCaption": "Cats"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 67,
+              "pageId": 746665,
+              "parentId": 112,
+              "id": 127,
+              "pageLink": "pet_boar",
+              "pageCaption": "Pigs"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 97,
+              "pageId": 746666,
+              "parentId": 112,
+              "id": 128,
+              "pageLink": "pet_frog",
+              "pageCaption": "Frog"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 8,
+          "pageId": 746650,
+          "parentId": 111,
+          "id": 112,
+          "pageLink": "pets_info",
+          "pageCaption": "Pet Animals"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 228,
+              "pageId": 746669,
+              "parentId": 129,
+              "id": 130,
+              "pageLink": "pet_puppy",
+              "pageCaption": "Puppies"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 228,
+              "pageId": 746670,
+              "parentId": 129,
+              "id": 131,
+              "pageLink": "pet_kitten",
+              "pageCaption": "Kittens"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 228,
+              "pageId": 746671,
+              "parentId": 129,
+              "id": 132,
+              "pageLink": "pet_piglet",
+              "pageCaption": "Piglets"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 228,
+          "pageId": 746668,
+          "parentId": 111,
+          "id": 129,
+          "pageLink": "babypets_info",
+          "pageCaption": "Baby Pet Animals"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 195,
+              "pageId": 746674,
+              "parentId": 133,
+              "id": 134,
+              "pageLink": "pet_equipment_top_picks",
+              "pageCaption": "Top Picks"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 201,
+              "pageId": 746675,
+              "parentId": 133,
+              "id": 135,
+              "pageLink": "pet_accessories",
+              "pageCaption": "Pet Food"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 199,
+              "pageId": 746676,
+              "parentId": 133,
+              "id": 136,
+              "pageLink": "baby_pet_accessories",
+              "pageCaption": "Toys and Accessories"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 135,
+              "pageId": 746677,
+              "parentId": 133,
+              "id": 137,
+              "pageLink": "horse_saddle",
+              "pageCaption": "Saddles"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 133,
+              "pageId": 746678,
+              "parentId": 133,
+              "id": 138,
+              "pageLink": "horse_dyes",
+              "pageCaption": "Dyes"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 134,
+              "pageId": 746679,
+              "parentId": 133,
+              "id": 139,
+              "pageLink": "horse_styles",
+              "pageCaption": "Hair Styles"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 226,
+              "pageId": 746680,
+              "parentId": 133,
+              "id": 140,
+              "pageLink": "horse_jump_pilot",
+              "pageCaption": "Horse Jump"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 128,
+              "pageId": 746681,
+              "parentId": 133,
+              "id": 141,
+              "pageLink": "monkey_furni",
+              "pageCaption": "Monkey Furni"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 226,
+          "pageId": -1,
+          "parentId": 111,
+          "id": 133,
+          "pageLink": "pets_pet_equipment",
+          "pageCaption": "Pet Equipment"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 99,
+          "pageId": 746682,
+          "parentId": 111,
+          "id": 142,
+          "pageLink": "babypets_all",
+          "pageCaption": "Breeding Boxes"
+        },
+        {
+          "tabs": [
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 156,
+              "pageId": 746684,
+              "parentId": 143,
+              "id": 144,
+              "pageLink": "monster_plant_seeds",
+              "pageCaption": "Monster Plant Seeds"
+            },
+            {
+              "tabs": [],
+              "isEnabled": true,
+              "iconImage": 155,
+              "pageId": 746685,
+              "parentId": 143,
+              "id": 145,
+              "pageLink": "monster_plant_potions",
+              "pageCaption": "Monster Plant Potions"
+            }
+          ],
+          "isEnabled": true,
+          "iconImage": 153,
+          "pageId": 746683,
+          "parentId": 111,
+          "id": 143,
+          "pageLink": "monster_plants_info",
+          "pageCaption": "Monster Plants"
+        }
+      ],
+      "isEnabled": true,
+      "iconImage": 24,
+      "pageId": -1,
+      "parentId": -1,
+      "id": 111,
+      "pageLink": "pets_new",
+      "pageCaption": "Pets"
+    },
+    {
+      "tabs": [
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 172,
+          "pageId": 746687,
+          "parentId": 146,
+          "id": 147,
+          "pageLink": "hc_membership",
+          "pageCaption": "Habbo Club"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 193,
+          "pageId": 746688,
+          "parentId": 146,
+          "id": 148,
+          "pageLink": "builders_club_frontpage",
+          "pageCaption": "Builders Club"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 193,
+          "pageId": 746689,
+          "parentId": 146,
+          "id": 149,
+          "pageLink": "loyalty_bc",
+          "pageCaption": "Builders Club (Diamonds)"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 194,
+          "pageId": 746690,
+          "parentId": 146,
+          "id": 150,
+          "pageLink": "builders_upgrades",
+          "pageCaption": "BC Upgrades"
+        },
+        {
+          "tabs": [],
+          "isEnabled": true,
+          "iconImage": 99,
+          "pageId": 746691,
+          "parentId": 146,
+          "id": 151,
+          "pageLink": "bchc_boxes",
+          "pageCaption": "BC/HC Gift Boxes"
+        }
+      ],
+      "isEnabled": true,
+      "iconImage": 172,
+      "pageId": -1,
+      "parentId": -1,
+      "id": 146,
+      "pageLink": "habbo_club_desktop",
+      "pageCaption": "Memberships"
+    }
+  ],
+  "isEnabled": true,
+  "iconImage": 0,
+  "pageId": -1,
+  "parentId": -1,
+  "id": -1,
+  "pageLink": "root",
+  "pageCaption": ""
+}
