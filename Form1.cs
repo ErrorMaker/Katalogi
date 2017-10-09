@@ -28,8 +28,6 @@ namespace Katalogi
         public CatalogueTabReader TabReader { get; set; }
 
         public List<int> PageIds = new List<int>();
-        public Dictionary<int, int> ParentIds = new Dictionary<int, int>();
-
         private Dictionary<int, dynamic> pages = new Dictionary<int, dynamic>();
 
         public Form1()
@@ -98,11 +96,6 @@ namespace Katalogi
 
             if (catalogueTabs != null)
             {
-                foreach (var kvp in ParentIds)
-                {
-                    Log("] > " + kvp.Key + " - " + kvp.Value);
-                }
-
                 this.AppendCatalogueTabs(catalogueTabs);
             }
         }

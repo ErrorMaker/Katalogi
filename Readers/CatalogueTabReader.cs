@@ -11,6 +11,7 @@ namespace Katalogi.Readers
 {
     public class CatalogueTabReader
     {
+        private static Random random = new Random();
         private Form1 form;
 
         public CatalogueTabReader(Form1 form)
@@ -36,6 +37,11 @@ namespace Katalogi.Readers
             tabData.iconImage = packet.ReadInteger();
             tabData.id = packet.ReadInteger();
 
+            if (tabData.id == -1)
+            {
+                tabData.id = random.Next(10000, 30000);
+            }
+
             this.form.PageIds.Add(tabData.id);//.RequestPage(tabData.id, obj);
 
             tabData.pageLink = packet.ReadString();
@@ -51,12 +57,6 @@ namespace Katalogi.Readers
             for (int i = 0; i < subPages; i++)
             {
                 dynamic nextTab = this.ReadTabData(obj);
-
-                if (nextTab.id > 0)
-                {
-                    this.form.ParentIds.Add(nextTab.id, tabData.id);
-                }
-
                 tabData.tabs.Add(nextTab);
             }
 
